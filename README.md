@@ -1,1 +1,3 @@
-# Do-CSV-a-camada-GOLD---Shopping
+Este projeto tem como objetivo demonstrar algumas das tratativas que aplico no meu dia a dia na área de Dados. As visões Silver e Gold foram desenvolvidas com base em demandas reais que já atendi, refletindo práticas que considero relevantes e valiosas sob a ótica de negócio. A proposta é ilustrar como a organização e o enriquecimento dos dados podem gerar insights mais significativos para a tomada de decisão. Os dados utilizados foram extraídos do https://www.kaggle.com/datasets/captaindatasets/istanbul-mall 
+
+Um ponto importante a ressaltar é que este notebook tem caráter exploratório. Em um cenário ideal, seria recomendável estruturar o projeto separando os processos por camadas ou organizando cada etapa de criação de tabelas de forma individualizada.
